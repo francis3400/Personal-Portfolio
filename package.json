@@ -1,0 +1,23 @@
+{
+  "name": "francis-1",
+  "version": "1.0.0",
+  "description": "Project Name\r Hello Microverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francis3400/Personal-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francis3400/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/francis3400/Personal-Portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
+}
